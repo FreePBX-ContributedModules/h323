@@ -1,0 +1,17 @@
+<module>
+	<rawname>h323</rawname>
+	<repo>extended</repo>
+	<name>H323 Settings</name>
+	<version>2.10.0.1</version>
+	<publisher>Nikolay Nikolaev</publisher>
+	<license>GPLv2+</license>
+	<changelog>
+		*2.10.0.0*
+	</changelog>
+	<category>Settings</category>
+	<menuitems>
+		<h323>H323 Settings</h323>
+	</menuitems>
+	<location></location>
+	<md5sum></md5sum>
+</module>
